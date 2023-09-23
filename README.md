@@ -2,13 +2,17 @@
 
 # Overview
 
-This project aims to predict the likelihood of a person having diabetes based on various health-related features. It utilizes the Support Vector Machine (SVM) algorithm to classify individuals into two categories: diabetic (1) or non-diabetic (0). The dataset used for training and testing contains information on pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, and age.
+This project aims to predict the likelihood of a person having diabetes based on various health-related features. It utilizes the Support Vector Machine (SVM) algorithm to classify individuals into two categories: diabetic (1) or non-diabetic (0). 
+The dataset used for training and testing contains information on pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, and age.
 
 # Dependencies
 
 NumPy
+
 Pandas
+
 Scikit-learn (for SVM model)
+
 Data Collection and Analysis
 
 The PIMA Diabetes Dataset is used for this project.
